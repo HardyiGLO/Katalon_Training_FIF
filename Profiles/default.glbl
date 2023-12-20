@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://starbridges.indocyber.co.id/Application/Account/Login?ReturnUrl=%2fApplication'</initValue>
+      <name>url</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'suhardi'</initValue>
+      <name>usrname</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Pass123.'</initValue>
+      <name>pass</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>findTestObject('wikipedia/wiki-sshomepage/Page_Wikipedia/screenshothomepage')</initValue>
+      <name>ss_homepage</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
