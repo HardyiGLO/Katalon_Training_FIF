@@ -21,5 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.wikipedia.org/')
 
-WebUI.takeElementScreenshotAsCheckpoint(GlobalVariable.ss_homepage, findTestObject('wikipedia/wiki-sshomepage/Page_Wikipedia/screenshothomepage'))
+WebUI.takeScreenshotAsCheckpoint(GlobalVariable.ss_homepage, [])
 

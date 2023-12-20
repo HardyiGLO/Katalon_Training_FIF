@@ -4,30 +4,30 @@
    <name>screenshothomepage</name>
    <tag></tag>
    <elementGuidId>ce4a469d-dc16-45cb-a771-2ec14fb5eb27</elementGuidId>
-   <imagePath>Screenshots/Targets/Page_Wikipedia/body_WikipediaThe Free EncyclopediaEnglish6758000 articles1953000 1396000 Deutsch2863000 ArtikelEspaol1915000 artculosFranais2576000 articlesItaliano1839000 voci1393000   1223000 984000 Search WikipediaenAfrikaansPolskiA.png</imagePath>
+   <imagePath>C:\Users\1878\OneDrive\Desktop\Clone_Katalon_Training_FIF\2023-12-20 143622.png</imagePath>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//body[@id='www-wikipedia-org']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>#www-wikipedia-org</value>
       </entry>
       <entry>
+         <key>XPATH</key>
+         <value>//body[@id='www-wikipedia-org']</value>
+      </entry>
+      <entry>
          <key>IMAGE</key>
-         <value>Screenshots/Targets/Page_Wikipedia/body_WikipediaThe Free EncyclopediaEnglish6758000 articles1953000 1396000 Deutsch2863000 ArtikelEspaol1915000 artculosFranais2576000 articlesItaliano1839000 voci1393000   1223000 984000 Search WikipediaenAfrikaansPolskiA.png</value>
+         <value>C:\Users\1878\OneDrive\Desktop\Clone_Katalon_Training_FIF\2023-12-20 143622.png</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
-   <useRalativeImagePath>true</useRalativeImagePath>
+   <selectorMethod>IMAGE</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>body</value>
-      <webElementGuid>78a2232d-732a-46d4-94f9-b790122738f0</webElementGuid>
+      <webElementGuid>0d9bbe8a-1938-45d1-bfa6-eb3a0050930b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +35,7 @@
       <name>id</name>
       <type>Main</type>
       <value>www-wikipedia-org</value>
-      <webElementGuid>c0485688-3c39-460c-a70e-b18ca2172428</webElementGuid>
+      <webElementGuid>3dcb4323-676f-4652-a86b-c5f08bcd8914</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>class</name>
       <type>Main</type>
       <value> jsl10n-visible</value>
-      <webElementGuid>899ac2a7-e102-4a7b-a992-00fbebae6b56</webElementGuid>
+      <webElementGuid>4e609f11-184f-492f-a2bb-478d636ac959</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -927,7 +927,7 @@ var rtlLangs = ['ar','arc','ary','arz','bcc','bgn','bqi','ckb','dv','fa','glk','
 
 
 Capture object: Alt ` ● Load DOM Map: Ctrl Alt ` id(&quot;www-wikipedia-org&quot;)</value>
-      <webElementGuid>1be35296-5f66-4f16-9279-1231406ac9ba</webElementGuid>
+      <webElementGuid>053a37a9-f80d-4b3d-919d-bfec3649a73e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -935,7 +935,7 @@ Capture object: Alt ` ● Load DOM Map: Ctrl Alt ` id(&quot;www-wikipedia-o
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;www-wikipedia-org&quot;)</value>
-      <webElementGuid>0d67b77e-a2e0-4dee-8caf-ae12086a6f24</webElementGuid>
+      <webElementGuid>11be7394-f6d9-40a2-b6b8-518b893486b3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -943,7 +943,7 @@ Capture object: Alt ` ● Load DOM Map: Ctrl Alt ` id(&quot;www-wikipedia-o
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//body[@id='www-wikipedia-org']</value>
-      <webElementGuid>538f3b33-c707-4583-978a-bb0f2a1aae71</webElementGuid>
+      <webElementGuid>ac96cd28-b805-451e-b30f-e1ed9b421ddd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -951,7 +951,7 @@ Capture object: Alt ` ● Load DOM Map: Ctrl Alt ` id(&quot;www-wikipedia-o
       <name>xpath:position</name>
       <type>Main</type>
       <value>//body</value>
-      <webElementGuid>5c711875-6219-4aa2-b6cf-13309656c289</webElementGuid>
+      <webElementGuid>fd59a8c4-dcc0-4f92-acb7-7b8b0d62a0e2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -2711,6 +2711,6 @@ var rtlLangs = [&quot; , &quot;'&quot; , &quot;ar&quot; , &quot;'&quot; , &quot;
 
 
 Capture object: Alt ` ● Load DOM Map: Ctrl Alt ` id(&quot;www-wikipedia-org&quot;)&quot;))]</value>
-      <webElementGuid>95b29b3a-7ac0-47a2-85b5-2a62c5897f55</webElementGuid>
+      <webElementGuid>a62dff8d-7094-42ab-a963-199f1b5510c7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
