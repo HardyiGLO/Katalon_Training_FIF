@@ -21,5 +21,5 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.wikipedia.org/')
 
-WebUI.takeAreaScreenshotAsCheckpoint('homescreen', null)
+WebUI.takeFullPageScreenshotAsCheckpoint('')
 
