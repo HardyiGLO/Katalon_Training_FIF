@@ -14,20 +14,38 @@ import com.kms.katalon.core.testobject.TestObject as TestObject
 import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import groovy.console.ui.SystemOutputInterceptor as SystemOutputInterceptor
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+
+CustomKeywords.'com.kazurayam.ksbackyard.HighlightElement.pandemic'(['getText'])
 
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.url)
 
-WebUI.setText(findTestObject('Login_page/Page_Login/input_Sign in_LoginName'), GlobalVariable.usrname)
+WebUI.setText(findTestObject('Login_page/Page_Login/input_Sign in_LoginName'), usrname)
 
-WebUI.setText(findTestObject('Login_page/Page_Login/input_Sign in_loginPassword'), GlobalVariable.pass)
+WebUI.setText(findTestObject('Login_page/Page_Login/input_Sign in_loginPassword'), passwrd)
 
 WebUI.click(findTestObject('Login_page/Page_Login/btn_login(submit)using xpath contains'))
 
-WebUI.waitForPageLoad(5)
+WebUI.waitForPageLoad(3)
 
-WebUI.callTestCase(findTestCase('Logout'), [:], FailureHandling.STOP_ON_FAILURE)
+//WebUI.verifyElementPresent(findTestObject('LogOut/Page_Starbridges - Main Menu/a_Preferences_menu-sign-out'), 3, FailureHandling.OPTIONAL)
+if (WebUI.verifyElementPresent(findTestObject('LogOut/Page_Starbridges - Main Menu/a_Preferences_menu-sign-out'), 3, FailureHandling.OPTIONAL)) {
+    WebUI.comment('element logout terdeteksi, sukses login')
+
+    WebUI.getText(findTestObject('Login_page/title_username/Page_1703660413453/user_name'))
+
+    WebUI.click(findTestObject('LogOut/Page_Starbridges - Main Menu/a_Preferences_menu-sign-out'))
+
+    WebUI.delay(2)
+
+    WebUI.closeBrowser() //CustomKeywords.'com.kazurayam.ksbackyard.HighlightElement.on'(findTestObject('Login_page/Page_Login/gettexterror'))
+} else {
+    WebUI.getText(findTestObject('starbridges_login/Page_1703134001710/Page_1703134001710/Page_1703144535754/gettexterror'))
+
+    WebUI.closeBrowser()
+}
 

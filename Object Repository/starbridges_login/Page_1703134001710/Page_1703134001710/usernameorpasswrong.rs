@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>usernameorpasswrong</name>
+   <tag></tag>
+   <elementGuidId>e237bcf6-5b23-4fd3-aa08-fdd2759d5845</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div/ul/li[text()='Invalid User Name or Password']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>733045d1-7992-4e89-a102-7646438b27e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1703134003165</value>
+      <webElementGuid>f5e0b47c-afcd-44bd-a8d7-8c1b736185c6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

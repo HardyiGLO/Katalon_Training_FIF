@@ -24,4 +24,14 @@
       <initValue>findTestObject('wikipedia/wiki-sshomepage/Page_Wikipedia/screenshothomepage')</initValue>
       <name>ss_homepage</name>
    </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>''</initValue>
+      <name>Gvalidasi</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'https://www.matahari.com/'</initValue>
+      <name>url_matahari</name>
+   </GlobalVariableEntity>
 </GlobalVariableEntities>

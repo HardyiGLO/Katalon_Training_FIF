@@ -29,6 +29,16 @@ public class GlobalVariable {
      */
     public static Object ss_homepage
      
+    /**
+     * <p></p>
+     */
+    public static Object Gvalidasi
+     
+    /**
+     * <p></p>
+     */
+    public static Object url_matahari
+     
 
     static {
         try {
@@ -40,6 +50,8 @@ public class GlobalVariable {
             usrname = selectedVariables['usrname']
             pass = selectedVariables['pass']
             ss_homepage = selectedVariables['ss_homepage']
+            Gvalidasi = selectedVariables['Gvalidasi']
+            url_matahari = selectedVariables['url_matahari']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

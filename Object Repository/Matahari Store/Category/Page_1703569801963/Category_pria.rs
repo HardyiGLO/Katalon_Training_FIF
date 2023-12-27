@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Category_pria</name>
+   <tag></tag>
+   <elementGuidId>1d46dd31-d727-414f-94d6-8329f6952096</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//header/div[3]/div/div[2]/div/nav/ul/li[2]/a[contains(@href,'https://www.matahari.com/landing-pria')]/span[contains(text(),'PRIA')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>dd83d525-5023-4df1-a8a9-8e211ee94033</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1703571027739</value>
+      <webElementGuid>96d87d51-c7c9-4c95-97d9-b8f5c6efebee</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

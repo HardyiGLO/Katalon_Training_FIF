@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>ErrorLoginBoxMssg</name>
+   <tag></tag>
+   <elementGuidId>b1643581-f3d7-4aff-b4da-c45d31a8bcc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div[1][@class='validation-summary-errors'] /ul/li</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>664e328f-a35e-4d05-9a27-f2c8d0ea7272</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1703152790146</value>
+      <webElementGuid>27eabbed-86e0-4943-9a9d-4cfe03fade2e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

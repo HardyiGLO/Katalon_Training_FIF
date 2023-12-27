@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>user_name</name>
+   <tag></tag>
+   <elementGuidId>f06c0d15-c3ee-4949-a349-f48a568d486e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@class='user-dropdown dropdown']/button[@id='dropdownMenu1']/span[@title='view user settings']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>a8d7f430-0833-44df-a09e-e793144ba2e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1703660414581</value>
+      <webElementGuid>b493e119-0f7e-4fa9-a4de-65bb24e524d4</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

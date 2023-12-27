@@ -5,4 +5,43 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>66474c0d-89a9-4812-b850-3a2a5d2e8d39</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>197b3fb6-55c3-477e-bc6b-c67ae9c33c1f</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>43c5a8c9-581e-4864-a727-d83620ed3a98</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>cae9590e-36c7-496a-809d-b53a59a5c5cd</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'suhardi'</defaultValue>
+      <description></description>
+      <id>197b3fb6-55c3-477e-bc6b-c67ae9c33c1f</id>
+      <masked>false</masked>
+      <name>usrname</name>
+   </variable>
+   <variable>
+      <defaultValue>'Pass123.'</defaultValue>
+      <description></description>
+      <id>43c5a8c9-581e-4864-a727-d83620ed3a98</id>
+      <masked>false</masked>
+      <name>passwrd</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>cae9590e-36c7-496a-809d-b53a59a5c5cd</id>
+      <masked>false</masked>
+      <name>mssg_validasi</name>
+   </variable>
 </TestCaseEntity>

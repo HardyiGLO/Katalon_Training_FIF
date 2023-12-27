@@ -6,12 +6,11 @@
    <elementGuidId>2b1b0256-e53f-4d52-8306-957bc67478a8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@class='sweet-alert showSweetAlert visible']/div/div[@class='sa-confirm-button-container']/button[@class='confirm']</value>
+         <key>BASIC</key>
       </entry>
       <entry>
-         <key>BASIC</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>//div[@class='sweet-alert showSweetAlert visible']/div/div[@class='sa-confirm-button-container']/button[contains(text(),'Sign me out')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>wrongPass</name>
+   <tag></tag>
+   <elementGuidId>411d7843-69c0-44d5-b35e-67bc8e92ef24</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form/div/ul/li[text()='Error authenticating user. The user name or password is incorrect.']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>d6514d04-cc8b-4aed-9416-d672be8de172</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1703134302999</value>
+      <webElementGuid>0fe0e9b9-1577-4b4f-b276-d82389c76108</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
