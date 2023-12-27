@@ -25,5 +25,3 @@ WebUI.delay(3)
 
 WebUI.takeElementScreenshotAsCheckpoint('', findTestObject(null))
 
-WebUI.delay(3)
-
