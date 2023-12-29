@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>element_btn_login</name>
+   <tag></tag>
+   <elementGuidId>f464cdbf-5895-47cf-bcea-19c73d121b6b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[(@action='/Application/Account/Login')]/div[3]/button[contains(@id,'btnLogin') or (@type='submit')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>2282bd04-7dc8-40c7-8166-eb7f3556bdca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1703820406274</value>
+      <webElementGuid>8ce8a329-26a8-4937-89a7-459eccd7108d</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

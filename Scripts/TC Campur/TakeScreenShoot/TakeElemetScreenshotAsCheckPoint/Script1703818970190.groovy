@@ -28,5 +28,7 @@ WebUI.takeScreenshot()
 WebUI.takeElementScreenshotAsCheckpoint('checkElement_Logo_starbridges', findTestObject('ElementScreenShot/LogoStarBridges'), 
     FailureHandling.STOP_ON_FAILURE)
 
+WebUI.takeElementScreenshotAsCheckpoint('CheckElement_btn', findTestObject('ElementScreenShot/LogoStarBridges'), FailureHandling.STOP_ON_FAILURE)
+
 WebUI.closeBrowser()
 
