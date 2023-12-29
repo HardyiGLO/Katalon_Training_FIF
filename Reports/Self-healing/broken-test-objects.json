@@ -1,3 +1,14 @@
 {
-  "brokenTestObjects" : [ ]
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/ElementScreenShot/LogoStarBridges",
+      "brokenLocator": "",
+      "brokenLocatorMethod": "IMAGE",
+      "proposedLocator": "//body/div/div/img[contains(@src,\u0027/Application/Content/Images/logo.png\u0027)]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/Self-healing/Object Repository/ElementScreenShot/LogoStarBridges_XPATH.png"
+    }
+  ]
 }
