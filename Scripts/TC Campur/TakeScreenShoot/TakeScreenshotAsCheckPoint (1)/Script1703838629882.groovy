@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://www.indocyber.co.id/')
 
 WebUI.waitForPageLoad(3)
 
-WebUI.verifyElementPresent(findTestObject('Website Iglo/Logo_iglo/Page_Home  Indocyber/img'), 3)
+WebUI.takeScreenshotAsCheckpoint('ss_home_pages')
 
 WebUI.closeBrowser()
 

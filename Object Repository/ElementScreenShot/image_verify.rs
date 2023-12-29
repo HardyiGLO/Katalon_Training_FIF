@@ -1,18 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>LogoStarBridges</name>
+   <name>image_verify</name>
    <tag></tag>
-   <elementGuidId>0488133f-6719-4384-a3eb-43076457f0d5</elementGuidId>
-   <imagePath></imagePath>
+   <elementGuidId>c5f7dc45-4000-43aa-aecb-4ca105e07103</elementGuidId>
+   <imagePath>C:\Users\1878\OneDrive\Desktop\KTP wanita.jpg</imagePath>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//body/div/div/img[contains(@src,'/Application/Content/Images/logo.png')]</value>
-      </entry>
-      <entry>
          <key>IMAGE</key>
-         <value></value>
+         <value>C:\Users\1878\OneDrive\Desktop\KTP wanita.jpg</value>
       </entry>
       <entry>
          <key>BASIC</key>
