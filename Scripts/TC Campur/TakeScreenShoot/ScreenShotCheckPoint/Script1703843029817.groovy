@@ -23,7 +23,7 @@ WebUI.navigateToUrl('https://www.indocyber.co.id/')
 
 WebUI.waitForPageLoad(5)
 
-WebUI.takeScreenshotAsCheckpoint('screenshot cek homepage')
+WebUI.takeScreenshot()
 
 WebUI.closeBrowser()
 
