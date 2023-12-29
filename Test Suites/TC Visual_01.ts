@@ -15,7 +15,7 @@
       <guid>39b921cb-a766-43f6-843a-58ff016925fd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TestCheckUI</testCaseId>
+      <testCaseId>Test Cases/TC Campur/TakeScreenShoot/TakeScreenshotAsCheckpoint</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

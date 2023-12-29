@@ -15,7 +15,7 @@
       <guid>a185de49-8a67-44b4-95e2-89c9f7a2f6a9</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/Login_starbridges</testCaseId>
+      <testCaseId>Test Cases/TC Campur/Login_starbridges</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>

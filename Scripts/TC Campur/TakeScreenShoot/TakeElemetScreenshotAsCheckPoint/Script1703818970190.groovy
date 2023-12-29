@@ -23,5 +23,8 @@ WebUI.navigateToUrl('https://starbridges.indocyber.co.id/application/account/log
 
 WebUI.delay(3)
 
-WebUI.takeElementScreenshotAsCheckpoint('', findTestObject(null))
+WebUI.takeScreenshot()
+
+WebUI.takeElementScreenshotAsCheckpoint('checkElement_Logo_starbridges', findTestObject('ElementScreenShot/LogoStarBridges'), 
+    FailureHandling.STOP_ON_FAILURE)
 

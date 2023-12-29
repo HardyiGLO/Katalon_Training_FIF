@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>TestImageCompare</name>
+   <name>TakeElemetScreenshotAsCheckPoint</name>
    <tag></tag>
    <comment></comment>
    <testCaseGuid>c5359aee-eaaf-4052-b65f-7a21790c8b60</testCaseGuid>

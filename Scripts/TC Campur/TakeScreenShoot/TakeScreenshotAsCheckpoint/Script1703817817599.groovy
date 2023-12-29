@@ -23,5 +23,3 @@ WebUI.navigateToUrl(GlobalVariable.url)
 
 WebUI.takeScreenshot()
 
-WebUI.takeScreenshotAsCheckpoint('ss_home_starbridges')
-

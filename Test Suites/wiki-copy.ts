@@ -15,7 +15,7 @@
       <guid>8de754de-73d0-4d75-9078-02e0e5980dce</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/wiki - Copy</testCaseId>
+      <testCaseId>Test Cases/TC Campur/wiki - Copy</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

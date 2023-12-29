@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>6da4f0e2-0030-4776-8cd8-fb29b54888db</elementGuidId>
+   <imagePath>Screenshots/Targets/Page_Home  Indocyber/img.png</imagePath>
+   <selectorCollection>
+      <entry>
+         <key>IMAGE</key>
+         <value>Screenshots/Targets/Page_Home  Indocyber/img.png</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/a/img[contains(@alt,'Logo Indocyber')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Logo Indocyber&quot;]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@alt = 'Logo Indocyber' and @src = '/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-iglo.13052c31.png&amp;w=256&amp;q=75' and @Screenshot = 'C:\Users\1878\OneDrive\Desktop\Clone_Katalon_Training_FIF\Screenshots\Targets\Page_Home  Indocyber\img.png']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8313f064-c9c3-413a-ac0d-12f809f63e32</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Logo Indocyber</value>
+      <webElementGuid>ef72642b-1f63-450d-8b70-302527a9f61d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>srcset</name>
+      <type>Main</type>
+      <value>/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-iglo.13052c31.png&amp;w=96&amp;q=75 1x, /_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-iglo.13052c31.png&amp;w=256&amp;q=75 2x</value>
+      <webElementGuid>b185c4f6-91cd-4afa-9aad-cc8a9db18c14</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-iglo.13052c31.png&amp;w=256&amp;q=75</value>
+      <webElementGuid>0b2f88a7-e968-40bb-9783-e1e1c5a26bdc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>67</value>
+      <webElementGuid>825b7a34-1dfc-442d-9c17-d47451f9b92b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>54</value>
+      <webElementGuid>4b038e9a-119b-4b68-9c9b-6026bef48159</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>decoding</name>
+      <type>Main</type>
+      <value>async</value>
+      <webElementGuid>cb1a3158-74cc-4a60-8bd7-372d35f6ee50</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-nimg</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>b0b19e91-4e37-4a5f-a669-9bf2e767b8c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>loading</name>
+      <type>Main</type>
+      <value>lazy</value>
+      <webElementGuid>6d492cf4-1d6f-44a1-8c06-b51b6e9851cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/a/img[contains(@alt,'Logo Indocyber')]</value>
+      <webElementGuid>54ad3598-7aea-467a-bcbe-7c4cb24882cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>Screenshot</name>
+      <type>Main</type>
+      <value>C:\Users\1878\OneDrive\Desktop\Clone_Katalon_Training_FIF\Screenshots\Targets\Page_Home  Indocyber\img.png</value>
+      <webElementGuid>d7ddc353-b63f-4a34-9550-53690579b35f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/a/img</value>
+      <webElementGuid>90e4a793-eacc-4574-a4f6-99c69b5c72b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Logo Indocyber']</value>
+      <webElementGuid>a3bb41c8-8018-487e-bbf2-ccfb1307ff25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/img</value>
+      <webElementGuid>e315aeee-72d7-4cd8-8ebd-e66214f8090d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Logo Indocyber' and @src = '/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Flogo-iglo.13052c31.png&amp;w=256&amp;q=75']</value>
+      <webElementGuid>2b791227-746a-4ce2-b833-9ce5bf9ebc26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -42,7 +42,8 @@ if (WebUI.verifyElementPresent(findTestObject('LogOut/Page_Starbridges - Main Me
 
     WebUI.delay(2)
 
-    WebUI.closeBrowser() //CustomKeywords.'com.kazurayam.ksbackyard.HighlightElement.on'(findTestObject('Login_page/Page_Login/gettexterror'))
+    WebUI.closeBrowser( //CustomKeywords.'com.kazurayam.ksbackyard.HighlightElement.on'(findTestObject('Login_page/Page_Login/gettexterror'))
+        )
 } else {
     WebUI.getText(findTestObject('starbridges_login/Page_1703134001710/Page_1703134001710/Page_1703144535754/gettexterror'))
 
