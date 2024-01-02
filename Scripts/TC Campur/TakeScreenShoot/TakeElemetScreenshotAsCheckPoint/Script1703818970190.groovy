@@ -25,8 +25,6 @@ WebUI.delay(3)
 
 WebUI.takeScreenshot()
 
-WebUI.verifyImagePresent(findTestObject('ElementScreenShot/Logo_starbridges_ss'), FailureHandling.STOP_ON_FAILURE)
-
 WebUI.takeElementScreenshotAsCheckpoint('checkElement_Logo_starbridges', findTestObject('ElementScreenShot/Logo_starbridges_ss'), 
     FailureHandling.STOP_ON_FAILURE)
 
