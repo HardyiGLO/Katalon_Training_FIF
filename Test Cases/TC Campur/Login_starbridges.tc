@@ -31,7 +31,7 @@
       <name>usrname</name>
    </variable>
    <variable>
-      <defaultValue>'Pass123.'</defaultValue>
+      <defaultValue>'Pass1'</defaultValue>
       <description></description>
       <id>43c5a8c9-581e-4864-a727-d83620ed3a98</id>
       <masked>false</masked>

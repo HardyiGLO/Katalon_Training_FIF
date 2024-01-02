@@ -32,8 +32,13 @@ WebUI.click(findTestObject('Login_page/Page_Login/btn_login(submit)using xpath c
 
 WebUI.waitForPageLoad(3)
 
-//WebUI.verifyElementPresent(findTestObject('LogOut/Page_Starbridges - Main Menu/a_Preferences_menu-sign-out'), 3, FailureHandling.OPTIONAL)
-if (WebUI.verifyElementPresent(findTestObject('LogOut/Page_Starbridges - Main Menu/a_Preferences_menu-sign-out'), 3, FailureHandling.OPTIONAL)) {
+var1 = WebUI.verifyElementPresent(findTestObject('LogOut/Page_Starbridges - Main Menu/a_Preferences_menu-sign-out'), 3, 
+    FailureHandling.OPTIONAL)
+
+if (var1 == true) {
+    //WebUI.verifyElementPresent(findTestObject('LogOut/Page_Starbridges - Main Menu/a_Preferences_menu-sign-out'), 3, FailureHandling.OPTIONAL)
+    System.out.println(var1)
+
     WebUI.comment('element logout terdeteksi, sukses login')
 
     WebUI.getText(findTestObject('Login_page/title_username/Page_1703660413453/user_name'))
@@ -42,8 +47,7 @@ if (WebUI.verifyElementPresent(findTestObject('LogOut/Page_Starbridges - Main Me
 
     WebUI.delay(2)
 
-    WebUI.closeBrowser( //CustomKeywords.'com.kazurayam.ksbackyard.HighlightElement.on'(findTestObject('Login_page/Page_Login/gettexterror'))
-        )
+    WebUI.closeBrowser() //CustomKeywords.'com.kazurayam.ksbackyard.HighlightElement.on'(findTestObject('Login_page/Page_Login/gettexterror'))
 } else {
     WebUI.getText(findTestObject('starbridges_login/Page_1703134001710/Page_1703134001710/Page_1703144535754/gettexterror'))
 

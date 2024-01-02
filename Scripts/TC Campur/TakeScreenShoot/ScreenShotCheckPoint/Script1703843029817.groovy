@@ -25,7 +25,8 @@ WebUI.waitForPageLoad(5)
 
 WebUI.delay(3)
 
-WebUI.takeScreenshot()
+WebUI.takeScreenshot('TakeScreenshotBiasa')
 
 WebUI.closeBrowser()
+
 
