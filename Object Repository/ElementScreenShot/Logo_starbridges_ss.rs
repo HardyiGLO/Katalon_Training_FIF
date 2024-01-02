@@ -4,30 +4,30 @@
    <name>Logo_starbridges_ss</name>
    <tag></tag>
    <elementGuidId>fa235944-8a87-4c81-bbee-0aeb9b11fa3f</elementGuidId>
-   <imagePath>Screenshots/Targets/Page_Login/Logo_starbridges_ss.png</imagePath>
+   <imagePath>C:\Users\1878\OneDrive\Desktop\Clone_Katalon_Training_FIF\Screenshots\Targets\Page_Login\Logo_starbridges_ss.png</imagePath>
    <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img</value>
+      </entry>
       <entry>
          <key>XPATH</key>
          <value>//body/div/div/img[contains(@src,'/Application/Content/Images/logo.png')]</value>
       </entry>
       <entry>
          <key>IMAGE</key>
-         <value>Screenshots/Targets/Page_Login/Logo_starbridges_ss.png</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>img</value>
+         <value>C:\Users\1878\OneDrive\Desktop\Clone_Katalon_Training_FIF\Screenshots\Targets\Page_Login\Logo_starbridges_ss.png</value>
       </entry>
    </selectorCollection>
    <selectorMethod>IMAGE</selectorMethod>
-   <useRalativeImagePath>true</useRalativeImagePath>
+   <useRalativeImagePath>false</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>6c7d485f-09f6-499a-ad6a-b91ec5f77270</webElementGuid>
+      <webElementGuid>adb80703-7294-4b0e-9cc4-7bf8c07a306a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -35,7 +35,7 @@
       <name>src</name>
       <type>Main</type>
       <value>/Application/Content/Images/logo.png</value>
-      <webElementGuid>ec89200b-d40b-43a5-9e06-712cb1fbc1ce</webElementGuid>
+      <webElementGuid>8ef1ccc0-2eec-4135-aa09-3fed54bb19b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -43,7 +43,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;k-webkit k-webkit120 js  js csstransforms3d csstransitions&quot;]/body[1]/div[@class=&quot;left-login&quot;]/div[@class=&quot;login-logo&quot;]/img[1]</value>
-      <webElementGuid>34d8ca0b-e564-4666-bf36-ab0f18f958cc</webElementGuid>
+      <webElementGuid>b8b1fd62-c72e-47e9-b37e-42b03bae50e4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -51,7 +51,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//img</value>
-      <webElementGuid>35ea5576-df56-4e3f-9f52-e5d60ada2aff</webElementGuid>
+      <webElementGuid>d085f5f8-8575-4fe6-b861-63b014f54017</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -59,6 +59,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//img[@src = '/Application/Content/Images/logo.png']</value>
-      <webElementGuid>09e473a0-ed50-4228-bbd7-3db78fe8dcd6</webElementGuid>
+      <webElementGuid>5c7d8008-77b7-4d0b-913a-a19fac6c578b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
