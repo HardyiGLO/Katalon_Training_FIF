@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Image Based Testing Xpath Location Image &amp; Location</description>
+   <name>KRE-Image Based</name>
+   <tag>Image Based</tag>
+   <comment></comment>
+   <testCaseGuid>bf30910c-1806-4954-a7e9-035589aa1532</testCaseGuid>
+</TestCaseEntity>

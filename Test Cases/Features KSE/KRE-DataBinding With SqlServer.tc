@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Data Binding With SQL Server JDBC Driver</description>
+   <name>KRE-DataBinding With SqlServer</name>
+   <tag>DataBinding</tag>
+   <comment></comment>
+   <testCaseGuid>7190c03f-6c73-4c52-8bfb-b7aa2de3fe1c</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>1f0345ce-7dcd-41fc-828b-599dbf887e50</id>
+      <iterationEntity>
+         <iterationType>RANGE</iterationType>
+         <value>1-3</value>
+      </iterationEntity>
+      <testDataId>Data Files/SQL Server</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>1f0345ce-7dcd-41fc-828b-599dbf887e50</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>USER_NAME</value>
+      <variableId>8e9cf5d5-e1a2-4773-bc87-4fff6a59dea5</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>1f0345ce-7dcd-41fc-828b-599dbf887e50</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>USER_PASSWORD</value>
+      <variableId>c45908b5-57d2-477e-b01c-23d6c98aa815</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>8e9cf5d5-e1a2-4773-bc87-4fff6a59dea5</id>
+      <masked>false</masked>
+      <name>us_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>c45908b5-57d2-477e-b01c-23d6c98aa815</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>

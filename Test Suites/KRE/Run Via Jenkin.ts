@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>starbridges</name>
+   <name>Run Via Jenkin</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,30 +10,24 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>7427bfc4-0aed-4208-9779-59480066551d</testSuiteGuid>
+   <testSuiteGuid>4a7497ad-4b8b-4976-9552-d6a3321cdb96</testSuiteGuid>
    <testCaseLink>
-      <guid>a185de49-8a67-44b4-95e2-89c9f7a2f6a9</guid>
+      <guid>422edaeb-6cef-40e9-b1b2-9fdc837ab4cd</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/TC Campur/Login_starbridges</testCaseId>
+      <testCaseId>Test Cases/Features KSE/KRE-DataBinding With SqlServer</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>197b3fb6-55c3-477e-bc6b-c67ae9c33c1f</variableId>
+         <variableId>8e9cf5d5-e1a2-4773-bc87-4fff6a59dea5</variableId>
       </variableLink>
       <variableLink>
          <testDataLinkId></testDataLinkId>
          <type>DEFAULT</type>
          <value></value>
-         <variableId>cae9590e-36c7-496a-809d-b53a59a5c5cd</variableId>
-      </variableLink>
-      <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
-         <variableId>43c5a8c9-581e-4864-a727-d83620ed3a98</variableId>
+         <variableId>c45908b5-57d2-477e-b01c-23d6c98aa815</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

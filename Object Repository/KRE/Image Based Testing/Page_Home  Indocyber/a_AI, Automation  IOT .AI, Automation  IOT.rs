@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_AI, Automation  IOT .AI, Automation  IOT</name>
+   <tag></tag>
+   <elementGuidId>bb71002b-5e8d-4505-af39-423011003b5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(3) > a.style_childMenu__9WlE6</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/ul/li[3]/div[2]/ul/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>9afff3a1-dbb8-4910-8cb9-4dd446990258</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>style_childMenu__9WlE6</value>
+      <webElementGuid>665fcee9-f58b-456d-b4c8-7a1e5ffb382c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>AI, Automation &amp; IOT ...AI, Automation &amp; IOT ...</value>
+      <webElementGuid>18cc64ae-72ae-4df3-8a15-1df582c176be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;style_headerWrapper__ffo9A style_bgLight__poLOJ&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;style_navbarWrapper__cL__c&quot;]/div[@class=&quot;style_navbarActionWrapper__nO10b&quot;]/ul[@class=&quot;style_navbarMenuList__rF6Ee&quot;]/li[@class=&quot;style_menuDropdown__byKZ_&quot;]/div[@class=&quot;style_dropdown__RN0IT&quot;]/ul[1]/li[3]/a[@class=&quot;style_childMenu__9WlE6&quot;]</value>
+      <webElementGuid>1fa75f45-dc79-4dd8-bc01-4d9cd9d48e7c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/ul/li[3]/div[2]/ul/li[3]/a</value>
+      <webElementGuid>97113b38-d225-45ec-b095-5dded58c1a87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>b253b874-9c23-4c1a-902e-60459766c3e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@class = 'style_childMenu__9WlE6' and (text() = 'AI, Automation &amp; IOT ...AI, Automation &amp; IOT ...' or . = 'AI, Automation &amp; IOT ...AI, Automation &amp; IOT ...')]</value>
+      <webElementGuid>a7454adb-203f-4a1e-bcd3-f34d24fb009f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

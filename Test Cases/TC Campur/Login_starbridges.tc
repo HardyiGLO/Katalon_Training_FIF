@@ -5,37 +5,39 @@
    <tag></tag>
    <comment></comment>
    <testCaseGuid>66474c0d-89a9-4812-b850-3a2a5d2e8d39</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>3ccc4217-56cf-4198-a9ca-120adbca20ea</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/DataLogin via File Excel</testDataId>
+   </testDataLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>3ccc4217-56cf-4198-a9ca-120adbca20ea</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>usrname</value>
       <variableId>197b3fb6-55c3-477e-bc6b-c67ae9c33c1f</variableId>
    </variableLinks>
    <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
-      <variableId>43c5a8c9-581e-4864-a727-d83620ed3a98</variableId>
-   </variableLinks>
-   <variableLinks>
-      <testDataLinkId></testDataLinkId>
-      <type>DEFAULT</type>
-      <value></value>
+      <testDataLinkId>3ccc4217-56cf-4198-a9ca-120adbca20ea</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>mssg</value>
       <variableId>cae9590e-36c7-496a-809d-b53a59a5c5cd</variableId>
    </variableLinks>
+   <variableLinks>
+      <testDataLinkId>3ccc4217-56cf-4198-a9ca-120adbca20ea</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>passwrd</value>
+      <variableId>43c5a8c9-581e-4864-a727-d83620ed3a98</variableId>
+   </variableLinks>
    <variable>
-      <defaultValue>'suhardi'</defaultValue>
+      <defaultValue>''</defaultValue>
       <description></description>
       <id>197b3fb6-55c3-477e-bc6b-c67ae9c33c1f</id>
       <masked>false</masked>
       <name>usrname</name>
-   </variable>
-   <variable>
-      <defaultValue>'Pass1'</defaultValue>
-      <description></description>
-      <id>43c5a8c9-581e-4864-a727-d83620ed3a98</id>
-      <masked>false</masked>
-      <name>passwrd</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
@@ -43,5 +45,12 @@
       <id>cae9590e-36c7-496a-809d-b53a59a5c5cd</id>
       <masked>false</masked>
       <name>mssg_validasi</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>43c5a8c9-581e-4864-a727-d83620ed3a98</id>
+      <masked>false</masked>
+      <name>passwrd</name>
    </variable>
 </TestCaseEntity>

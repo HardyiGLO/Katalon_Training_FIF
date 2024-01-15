@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description>KRE CheckPoint </description>
+   <name>KRE Checkpoint-TestData</name>
+   <tag></tag>
+   <source-info>
+      <is-from-test-data>true</is-from-test-data>
+      <source-url>Data Files/SQL Server</source-url>
+   </source-info>
+   <taken-date>2024-01-11T15:17:48.971+07:00</taken-date>
+   <column-names>
+      <column-name>USER_NAME</column-name>
+      <column-name>USER_PASSWORD</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "ADI ARISTIA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADI ARISTIA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADI ARISTIA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADI SRI PRAYOGO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "USER FLEET",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADMIN BINTARO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADMINISTRATOR",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADI ARISTIA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AKHMAD FERI FAUZI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AKHMAD EKO SUSILO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AKHMAD FERI FAUZI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ALI NUR RAHMAT",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ALICE SEFIANI STEFANUS",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ANDRY CIU",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ANDRY CIU",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ANDRY CIU",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ANDRY CIU",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ANIS RATNASARI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ANITA ROMADITIA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ARI PRASETYO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "SYSTEM",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADMINISTRATOR BINTARO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADMINISTRATOR LEBAK BULUS",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "CAROLYN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "CAROLYN PRIYATNA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "CAROLYN PRIYATNA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "CAROLYN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "DIAH-LEBAK BULUS",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AKHMAD EKO SUSILO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AKHMAD EKO SUSILO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ELVIN LUKMAN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ELVIN LUKMAN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ELVIN LUKMAN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ENDAH GUNAWATI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Endy Nugroho",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "MONAESTI DEVITA NATALIA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FAJAR PUTRA ANGGAKUSUMA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FAUZAN ANANDA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "AKHMAD FERI FAUZI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FITRI RAHMA DIANI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FITRA RAHMA DIANI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FRANSISCA NANCY",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FRANSISCA NANCY",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "HARDI HANDIKA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "HARI TANTRA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "HARI SURYANTO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "INDRA IRAWAN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "INDRAWAN PRAKARSA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "IWAN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "JOHANES CAYADI SUGIMIN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "JOHANES CAYADI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "KAZUMICHI WATANABE",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "KAZUMICHI WATANABE",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "KAZUMICHI WATANABE",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "KAZUMICHI WATANABE",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "KAZUMICHI WATANABE",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "RIZKI RAMADHAN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ELVIN LUKMAN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "MAMAN RUSMANA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "MAMAN RUSMANA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "MARSEINE EUNICE TUMEWU",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "MARSEINE EUNICE TUMEWU",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "MARSEINE EUNICE TUMEWU",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "MARSEINE EUNICE TUMEWU",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "MONAESTI DEVITA N",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "asa",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "NURJANATI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "NURUL FATIMAH",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "PRASASTI DUTA AGUSTINE",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "PRIJONO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADM",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADM",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADM",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADM",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "PRIJONO TARUNA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "PRIJONO TARUNA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "PRIJONO TARUNA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "PRIJONO TARUNA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "REZA DWI CAHYA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "YUSMARINI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "RINI YUNITA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ROY ADRIANYAH",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "PRIYANCE NABABAN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "SHOLIHIN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FRANSISCA NANCY",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FRANSISCA NANCY- BNTR",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FRANSISCA NANCY",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FRANSISCA NANCY",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "FRANSISCA NANCY",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "SODIKIN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "SODIKIN",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "SUCI RAHAYU PUTRI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "SUYATNO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ADMINISTRATOR HO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "TEDY HARYADI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "TRI PRASETYO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "TRI PRASETYO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "TRI PRASETYO",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "Tri Prasetyo",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "STEVANNY SEJATI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "VICKANIA FRANKY",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "WAHID ANSORI",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "ZULFA SATRYA",
+      "checked": false
+    },
+    {
+      "value": "X81UimGLnN0\u003d",
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

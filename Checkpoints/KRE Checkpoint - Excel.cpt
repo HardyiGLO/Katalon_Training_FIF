@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkpoint>
+   <description></description>
+   <name>KRE Checkpoint - Excel</name>
+   <tag></tag>
+   <excel-source-info>
+      <is-from-test-data>false</is-from-test-data>
+      <source-url>Data Files/login_file.xlsx</source-url>
+      <source-type>ExcelFile</source-type>
+      <sheet-name-or-separator>Sheet1</sheet-name-or-separator>
+      <is-using-relative-path>true</is-using-relative-path>
+      <is-using-first-row-as-header>true</is-using-first-row-as-header>
+   </excel-source-info>
+   <taken-date>2024-01-11T16:26:38.416+07:00</taken-date>
+   <column-names>
+      <column-name>usrname</column-name>
+      <column-name>passwrd</column-name>
+      <column-name>mssg</column-name>
+   </column-names>
+   <checkpoint-data><![CDATA[[
+  [
+    {
+      "value": "bbbb",
+      "checked": true
+    },
+    {
+      "value": "ccccc",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "hardi",
+      "checked": true
+    },
+    {
+      "value": "Pass123.",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "wkwk",
+      "checked": true
+    },
+    {
+      "value": "wkwk",
+      "checked": false
+    },
+    {
+      "value": "Invalid User Name or Password",
+      "checked": false
+    }
+  ],
+  [
+    {
+      "value": "hardi",
+      "checked": true
+    },
+    {
+      "value": "123",
+      "checked": false
+    },
+    {
+      "checked": false
+    }
+  ]
+]]]></checkpoint-data>
+</checkpoint>

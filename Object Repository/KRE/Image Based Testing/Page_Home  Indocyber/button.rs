@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button</name>
+   <tag></tag>
+   <elementGuidId>b2c92c65-f72f-42f5-ad85-e7d3d331aaaf</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.style_menuDropdown__byKZ_ > div > button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__next']/div/div/div/div/div/div/ul/li[3]/div/button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>3d86b687-dcda-4b73-9f8e-888c1c892e4c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__next&quot;)/div[1]/div[@class=&quot;style_headerWrapper__ffo9A style_bgLight__poLOJ&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;style_navbarWrapper__cL__c&quot;]/div[@class=&quot;style_navbarActionWrapper__nO10b&quot;]/ul[@class=&quot;style_navbarMenuList__rF6Ee&quot;]/li[@class=&quot;style_menuDropdown__byKZ_&quot;]/div[1]/button[1]</value>
+      <webElementGuid>e3ead46a-2350-40e0-8837-2ac39543aecd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__next']/div/div/div/div/div/div/ul/li[3]/div/button</value>
+      <webElementGuid>76ba38b8-54f2-4f9f-8ca4-4cfb7da9c503</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/button</value>
+      <webElementGuid>01e6805d-04f9-4b84-80b6-a520eea17ca8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

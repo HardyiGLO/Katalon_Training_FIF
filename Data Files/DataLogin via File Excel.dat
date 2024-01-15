@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <DataFileEntity>
    <description></description>
-   <name>DataLogin</name>
+   <name>DataLogin via File Excel</name>
    <tag></tag>
    <connectionProperties/>
    <containsHeaders>true</containsHeaders>

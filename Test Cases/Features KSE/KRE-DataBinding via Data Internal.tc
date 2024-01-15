@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>KRE-DataBinding via Data Internal</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0cf13bf8-f3a0-4fdd-9981-a072fb3eb319</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>ef9616d5-97f4-45a8-80ef-65d93a16747f</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Binding Internal Data (Input manual)</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>ef9616d5-97f4-45a8-80ef-65d93a16747f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>User_Login</value>
+      <variableId>6d130931-0374-4690-bf95-f28aff90890a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>ef9616d5-97f4-45a8-80ef-65d93a16747f</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Password</value>
+      <variableId>e2b4d233-4b85-454c-a02d-9f9f56dce2c7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>6d130931-0374-4690-bf95-f28aff90890a</id>
+      <masked>false</masked>
+      <name>usr_nm</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e2b4d233-4b85-454c-a02d-9f9f56dce2c7</id>
+      <masked>false</masked>
+      <name>pass</name>
+   </variable>
+</TestCaseEntity>
