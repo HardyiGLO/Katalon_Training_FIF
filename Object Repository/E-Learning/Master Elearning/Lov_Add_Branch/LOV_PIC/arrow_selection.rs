@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>arrow_selection</name>
+   <tag></tag>
+   <elementGuidId>b3f2a6b7-25a4-4b20-b75c-fa05ad5ff1f5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;formAdd&quot;]/div[2]/div[3]/span/span[1]/span/span[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>DIV</value>
+      <webElementGuid>5d8e6e04-6f1c-4d2c-927d-ebc5661cc6a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>xpath1705411491564</value>
+      <webElementGuid>32c4ea0e-7706-4d55-b0ae-36a3a8474328</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

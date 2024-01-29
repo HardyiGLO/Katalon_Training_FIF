@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>KRE-DataBinding via Data Internal</name>
-   <tag></tag>
+   <tag>DataBinding</tag>
    <comment></comment>
    <testCaseGuid>0cf13bf8-f3a0-4fdd-9981-a072fb3eb319</testCaseGuid>
    <testDataLinks>

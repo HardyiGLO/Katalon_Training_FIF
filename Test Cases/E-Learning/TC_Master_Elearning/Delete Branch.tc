@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Delete Branch</name>
+   <tag>MasterElearning</tag>
+   <comment></comment>
+   <testCaseGuid>21b05ad8-a78a-4191-8653-c448323e0540</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>f15a9ab9-c0ba-4bd4-b618-a4c4cd86c3e6</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Data Elearning</testDataId>
+   </testDataLinks>
+   <variableLinks>
+      <testDataLinkId>f15a9ab9-c0ba-4bd4-b618-a4c4cd86c3e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Name</value>
+      <variableId>bdefc883-2cf8-4f8e-8dba-13791a98a375</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f15a9ab9-c0ba-4bd4-b618-a4c4cd86c3e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>Kode Instalasi</value>
+      <variableId>b6f8fbf4-6c4b-46cb-a3d8-9788cea83a51</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f15a9ab9-c0ba-4bd4-b618-a4c4cd86c3e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>PIC iGLO</value>
+      <variableId>2b454ae0-c75e-4eb6-9a3c-a943a13007be</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId>f15a9ab9-c0ba-4bd4-b618-a4c4cd86c3e6</testDataLinkId>
+      <type>DATA_COLUMN</type>
+      <value>isActive</value>
+      <variableId>eb6478cc-4c20-443b-be97-716f549296ff</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>bdefc883-2cf8-4f8e-8dba-13791a98a375</id>
+      <masked>false</masked>
+      <name>branch_name</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6f8fbf4-6c4b-46cb-a3d8-9788cea83a51</id>
+      <masked>false</masked>
+      <name>kode_instalasi</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>2b454ae0-c75e-4eb6-9a3c-a943a13007be</id>
+      <masked>false</masked>
+      <name>pic</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>eb6478cc-4c20-443b-be97-716f549296ff</id>
+      <masked>false</masked>
+      <name>isActive</name>
+   </variable>
+</TestCaseEntity>

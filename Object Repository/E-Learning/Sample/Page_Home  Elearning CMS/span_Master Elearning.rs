@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Master Elearning</name>
+   <tag></tag>
+   <elementGuidId>5ffedca1-f419-4d89-97b7-a66bfa179f79</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='mainnav']/ul/li[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ea378629-a389-414d-bb14-29a42e333036</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Master Elearning</value>
+      <webElementGuid>63ebe862-4bb9-4843-ab4c-5a0488a43f39</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainnav&quot;)/ul[@class=&quot;nav-menu custom-scrollbar&quot;]/li[@class=&quot;dropdown&quot;]/a[@class=&quot;nav-link menu-title link-nav&quot;]/span[1]</value>
+      <webElementGuid>f73baba3-80dc-4881-b2a5-001a585ca0f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='mainnav']/ul/li[3]/a/span</value>
+      <webElementGuid>0cf23eb3-42d4-4144-9a29-dacf5c46b3ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a/span</value>
+      <webElementGuid>885d8478-1af6-4db3-bafb-eaac359ec565</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Master Elearning' or . = 'Master Elearning')]</value>
+      <webElementGuid>ef7cabc3-bf47-407f-8598-aa56788febc6</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

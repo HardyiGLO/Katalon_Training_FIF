@@ -23,10 +23,9 @@ WebUI.navigateToUrl('https://www.indocyber.co.id/')
 
 WebUI.waitForPageLoad(5)
 
-WebUI.delay(3)
+WebUI.delay(5)
 
-WebUI.takeScreenshot('TakeScreenshotBiasa')
+WebUI.takeScreenshotAsCheckpoint('website_iglo')
 
 WebUI.closeBrowser()
-
 

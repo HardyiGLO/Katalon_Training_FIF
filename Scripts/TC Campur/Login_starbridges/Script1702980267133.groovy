@@ -22,7 +22,7 @@ CustomKeywords.'com.kazurayam.ksbackyard.HighlightElement.pandemic'(['getText'])
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url)
+WebUI.navigateToUrl(GlobalVariable.url_elearning)
 
 WebUI.setText(findTestObject('Login_page/Page_Login/input_Sign in_LoginName'), usrname)
 

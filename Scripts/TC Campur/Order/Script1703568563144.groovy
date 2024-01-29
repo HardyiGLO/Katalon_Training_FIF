@@ -19,7 +19,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl(GlobalVariable.url_matahari)
+WebUI.navigateToUrl(GlobalVariable.url_elearning_matahari)
 
 WebUI.waitForPageLoad(3)
 
