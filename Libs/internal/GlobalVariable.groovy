@@ -12,21 +12,6 @@ public class GlobalVariable {
     /**
      * <p></p>
      */
-    public static Object Elear_usr_login
-     
-    /**
-     * <p></p>
-     */
-    public static Object Elear_usr_pass
-     
-    /**
-     * <p></p>
-     */
-    public static Object url_elearning
-     
-    /**
-     * <p></p>
-     */
     public static Object url
      
     /**
@@ -54,6 +39,21 @@ public class GlobalVariable {
      */
     public static Object url_matahari
      
+    /**
+     * <p></p>
+     */
+    public static Object Elear_usr_login
+     
+    /**
+     * <p></p>
+     */
+    public static Object Elear_usr_pass
+     
+    /**
+     * <p></p>
+     */
+    public static Object url_elearning
+     
 
     static {
         try {
@@ -61,15 +61,15 @@ public class GlobalVariable {
 			selectedVariables += TestCaseMain.getGlobalVariables(RunConfiguration.getExecutionProfile())
             selectedVariables += TestCaseMain.getParsedValues(RunConfiguration.getOverridingParameters(), selectedVariables)
     
-            Elear_usr_login = selectedVariables['Elear_usr_login']
-            Elear_usr_pass = selectedVariables['Elear_usr_pass']
-            url_elearning = selectedVariables['url_elearning']
             url = selectedVariables['url']
             usrname = selectedVariables['usrname']
             pass = selectedVariables['pass']
             ss_homepage = selectedVariables['ss_homepage']
             Gvalidasi = selectedVariables['Gvalidasi']
             url_matahari = selectedVariables['url_matahari']
+            Elear_usr_login = selectedVariables['Elear_usr_login']
+            Elear_usr_pass = selectedVariables['Elear_usr_pass']
+            url_elearning = selectedVariables['url_elearning']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)
